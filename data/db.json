@@ -1,0 +1,10 @@
+{
+  "notes": [
+    {
+      "title": "New note",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec purus et augue efficitur malesuada a a nisi. Sed quis massa non velit molestie dapibus eget eu risus. Aliquam nec dignissim nunc, vitae lobortis urna. Duis cursus augue vestibulum lacus vulputate scelerisque. Etiam libero dui, commodo vel hendrerit vel, fermentum sollicitudin neque. Nulla sed malesuada purus. Suspendisse consectetur pretium dolor, sit amet mollis felis dignissim quis. ",
+      "category": "money",
+      "id": 9
+    }
+  ]
+}
